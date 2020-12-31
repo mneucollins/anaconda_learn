@@ -1,5 +1,8 @@
 **/.DS_Store
 
+# problematic data from Coursera
+*/college_scorecard/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
